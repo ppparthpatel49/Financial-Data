@@ -1,0 +1,48 @@
+# Core
+streamlit==1.29.0
+python-dotenv==1.0.0
+
+# UI Components
+streamlit-authenticator==0.2.3
+streamlit-option-menu==0.3.6
+streamlit-aggrid==0.3.4.post3
+
+# Database
+sqlalchemy==2.0.23
+alembic==1.13.0
+
+# Data Processing
+pandas==2.1.3
+numpy==1.26.2
+
+# Market Data
+yfinance==0.2.32
+nsepy==0.8
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Financial Calculations
+scipy==1.11.4
+python-dateutil==2.8.2
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+
+# Authentication
+bcrypt==4.1.1
+pyjwt==2.8.0
+
+# Email
+sendgrid==6.11.0
+
+# Export
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+reportlab==4.0.7
+
+# Background Jobs (Optional)
+apscheduler==3.10.4
+
+# Utilities
+pytz==2023.3.post1
