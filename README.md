@@ -236,21 +236,6 @@ Run tests (when implemented):
 pytest tests/
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Guidelines
-- Follow PEP 8 style guide
-- Add docstrings to functions
-- Update README for new features
-- Test thoroughly before submitting PR
 
 ## 🗺️ Roadmap
 
@@ -266,19 +251,6 @@ Contributions are welcome! Please follow these steps:
 - [ ] Export data to PDF/CSV
 - [ ] Integration with health wearables
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-**Capstone Project** - [Your University Name]  
-**Course**: Agentic AI / AI in Healthcare  
-**Year**: 2024
 
 ## 🙏 Acknowledgments
 
@@ -287,13 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Health information sourced from reputable medical websites
 - Inspired by the need for accessible women's health technology
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/auracycle/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/auracycle/discussions)
-- **Email**: support@auracycle.example.com
-
-## 🌟 Star History
 
 If you find this project helpful, please consider giving it a ⭐!
 
